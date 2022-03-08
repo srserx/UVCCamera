@@ -1,4 +1,4 @@
-UVCCamera
+UVCCamera2
 ==========
 
 library and sample to access to UVC web camera on non-rooted Android device
